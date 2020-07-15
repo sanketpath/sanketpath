@@ -15,7 +15,6 @@ I write on Twitter and LinkedIn about design and work-life in general. I'm plann
 I've (finally) decided to get back to coding and my personal website (link below) is my playground. Currently, I've my site up with ready-made `GatsbyJS` theme. It does get limiting sometimes; so I've decided to code it from the scratch now (github repo link below).
 
 [Visit my site](https://sanketpathak.com/)
-
 [View my GitHub repo](https://github.com/sanketpath/gatsby-learn)
 
 

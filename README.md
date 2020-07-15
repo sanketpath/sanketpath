@@ -23,7 +23,7 @@ I've (finally) decided to get back to coding and my personal website (link below
 
 
 #### My Learning Framework
-**One Year Framework**
+One Year Framework
 
-> Whatever you decide to learn today, decide to be good at it in exactly a year. Not tomorrow, not a day after, not in a month but a year. It's an ample amount > of time and it helps your mind to be less anxious about the failures that may occur and helps you enjoy the process.
+Whatever you decide to learn today, decide to be good at it in exactly a year. Not tomorrow, not a day after, not in a month but a year. It's an ample amount of time and it helps your mind to be less anxious about the failures that may occur and helps you enjoy the process.
 

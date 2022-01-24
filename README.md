@@ -2,14 +2,11 @@
 
 I'm Sanket (he/him).
 
-I'm a product designer and a hobbyist coder. Currently, I'm working on [Integrations](https://www.postman.com/integrations/) in Postman.
-(Psst.. if you've used Integrations on Postman and have any critic or appreciation, hit me up.)
+I'm a product designer and a hobbyist coder. Currently, I'm leading DesignOps at [Postman](https://www.postman.com/).
 
 
 #### Writing
-I write on Twitter about design and work-life in general. I'm planning to write on my blog soon; more on that below.
-
-🔗 [Follow me on Twitter →](https://twitter.com/sanketpath)
+I write on [Twitter](https://twitter.com/sanketpath) about design, work and life in-general. I'm planning to start my [blog](https://blog.sanketpathak.com) soon. It's currently in design<>development.
 
 
 

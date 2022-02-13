@@ -2,11 +2,11 @@
 
 I'm Sanket (he/him).
 
-I'm a product designer and a hobbyist coder. Currently, I'm leading DesignOps at [Postman](https://www.postman.com/).
+I'm a DesignOps lead at [Postman](https://www.postman.com/). When I'm not working, I like to spend time meeting new people or learning to code or tinkering with new apps and tools.
 
 
 #### Writing
-I write on [Twitter](https://twitter.com/sanketpath) about design, work and life in-general. I'm planning to start my [blog](https://blog.sanketpathak.com) soon. It's currently in design<>development.
+I write on [Twitter](https://twitter.com/sanketpath) about design, work and life in-general. I'm have recently started my [blog](https://blog.sanketpathak.com) soon. Being a designer and a hobbyist coder, you can expect it to be forever in design <> development. 
 
 
 

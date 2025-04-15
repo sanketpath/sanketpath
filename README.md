@@ -2,7 +2,7 @@
 
 I'm Sanket (he/him).
 
-I'm a DesignOps lead at [Postman](https://www.postman.com/). When I'm not working, I like to spend time meeting new people or learning to code or tinkering with new apps and tools.
+I'm a Design Manager at [Postman](https://www.postman.com/). When I'm not working, I like to spend time meeting new people or learning to code or tinkering with new apps and tools.
 
 
 #### Writing
